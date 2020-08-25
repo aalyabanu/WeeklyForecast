@@ -39,9 +39,9 @@ const Scard = (props) => {
   const windSpeed = Math.round(props.wind, 1);
   const dataKey = props.dateString + "data";
   return (
-    <div className="card text-center">
+    <div className="card text-center" >
       <div className="card-body text-dark">
-        <h4 className="card-title"> {nameDay}</h4>
+        <h4 className="card-title" style={{ marginTop: "30px" }}> {nameDay}</h4>
         <p className="card-text text-secondary">
           {date}, {month}
         </p>
