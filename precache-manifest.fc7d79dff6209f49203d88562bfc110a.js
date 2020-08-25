@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94e358b28c739b62e4c895a0d9fc7cd1",
+    "revision": "b0ea7a4f7f7b1b98cac2e05c6a69a348",
     "url": "/WeeklyForecast/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeeklyForecast/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "706efd7fc6a389b8b97d",
+    "revision": "7d74c42a6fd2025b12eb",
     "url": "/WeeklyForecast/static/css/main.f8fae62f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeeklyForecast/static/js/2.f4e175fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "706efd7fc6a389b8b97d",
-    "url": "/WeeklyForecast/static/js/main.4c6ee271.chunk.js"
+    "revision": "7d74c42a6fd2025b12eb",
+    "url": "/WeeklyForecast/static/js/main.4875414a.chunk.js"
   },
   {
     "revision": "f94d7602c90290e44e2e",
